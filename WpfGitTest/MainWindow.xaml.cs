@@ -24,5 +24,10 @@ namespace WpfGitTest
         {
             InitializeComponent();
         }
+
+        private void btnWelkom_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
