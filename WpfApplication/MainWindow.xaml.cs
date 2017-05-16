@@ -31,6 +31,9 @@ namespace WpfApplication
             lstWelkom.Items.Add("Bienvenue!");
             lstWelkom.Items.Add("Welkom!");
             lstWelkom.Items.Add("Welcome!");
+
+            lstWelkom.Items.Add("Benvenuto!");
+
         }
     }
 
