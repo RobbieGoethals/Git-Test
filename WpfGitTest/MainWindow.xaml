@@ -8,6 +8,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <Label x:Name="lblBericht" Content="Kennismaking met Git" HorizontalAlignment="Left" Margin="147,117,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbltest" Content="test" HorizontalAlignment="Left" Margin="147,215,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
