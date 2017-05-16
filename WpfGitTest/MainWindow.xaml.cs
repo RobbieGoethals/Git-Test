@@ -27,7 +27,9 @@ namespace WpfGitTest
 
         private void btnWelkom_Click(object sender, RoutedEventArgs e)
         {
-
+            lstWelkom.Items.Add("Welkom!");
+            lstWelkom.Items.Add("Welcome!");
+            lstWelkom.Items.Add("Bienvenue!");
         }
     }
 }
